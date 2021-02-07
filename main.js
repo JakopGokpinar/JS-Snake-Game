@@ -102,7 +102,7 @@ function main(){
         draw();
         createApple();
         main();      
-    }, 35);
+    }, 100);
 }
 
 window.addEventListener('keydown', function(event){
