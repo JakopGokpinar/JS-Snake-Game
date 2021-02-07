@@ -109,8 +109,6 @@ window.addEventListener('keydown', function(event){
     if(event.defaultPrevented){
         return;
     } 
-    
-    
     switch(event.key){
         case "ArrowUp":
             x_coor = 0;
