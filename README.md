@@ -2,4 +2,4 @@
 
 A basic snake game with HTML,CSS and Javascript.
 
-The link to the game: https://snakejs.fitlifewebsolutions.com/
+Link to the game: https://snakejs.fitlifewebsolutions.com/
